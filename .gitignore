@@ -1,0 +1,12 @@
+node_modules/
+frontend/node_modules/
+backend/node_modules/
+frontend/dist/
+dist/
+.ipynb_checkpoints/
+.virtual_documents/
+anaconda_projects/
+Untitled.ipynb
+*.log
+.env
+.env.*
