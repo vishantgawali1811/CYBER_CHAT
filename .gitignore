@@ -6,7 +6,7 @@ dist/
 .ipynb_checkpoints/
 .virtual_documents/
 anaconda_projects/
-Untitled.ipynb
+/Untitled.ipynb
 *.log
 .env
 .env.*
